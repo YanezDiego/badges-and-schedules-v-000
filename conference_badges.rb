@@ -36,5 +36,5 @@ def printer (attendees)
   end
 
   return printer(attendees)
-  
+
 end
