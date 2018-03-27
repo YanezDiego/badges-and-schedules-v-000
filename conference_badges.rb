@@ -6,5 +6,5 @@ def badge_maker (name)
 end
 
 def batch_badge_creator (attendees)
-  atendees.each{|names| return names}
+  attendees.each{|names| return names}
 end
