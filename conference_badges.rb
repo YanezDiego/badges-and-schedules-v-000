@@ -15,7 +15,7 @@ end
 
 def assign_rooms (attendees)
   new_array = []
-    attendees.each do |rooms|
+    attendees.each do |name|
       new_rooms.push("Hello, #{rooms}! You'll be assigned to #{rooms -= 1}!")
     end
     return new_rooms
