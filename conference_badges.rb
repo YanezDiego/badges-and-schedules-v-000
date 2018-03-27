@@ -15,3 +15,5 @@ end
 
 def assign_rooms (attendees)
   new_rooms = []
+    attendees.each do |rooms|
+      new_rooms.push("")
