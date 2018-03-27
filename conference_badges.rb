@@ -13,4 +13,4 @@ def batch_badge_creator (attendees)
     return new_array
 end
 
-def assign_rooms
+def assign_rooms (attendees)
