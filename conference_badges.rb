@@ -24,7 +24,9 @@ def assign_rooms (attendees)
     end
     return new_array
   end
+
 binding.pry
+
 def printer (attendees)
 
 end
